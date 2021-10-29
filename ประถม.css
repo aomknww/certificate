@@ -1,0 +1,18 @@
+.flexbox {
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: row;
+}
+
+
+.lgs-bg {
+    display: block;
+    box-sizing: border-box;
+    width: 33.33%;
+}
+
+
+
+
+
+
